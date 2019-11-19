@@ -105,4 +105,4 @@ Christos Constantinides (https://github.com/iamkiko)
 - University of Helsinki for providing the Full Stack Open
 - Houston Inc for providing the Full Stack Open
 - Matti Luukainen (https://github.com/mluukkai) for curating the course
-- Joni Salmi, Mikko Saari, Alexis Toromanov and Vlad Sadretinov for their incredible help with questions and debugging.
+- Joni Salmi, Mikko Saari, Alexis Toromanoff and Vlad Sadretinov for their incredible help with questions and debugging.
