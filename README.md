@@ -30,6 +30,7 @@ https://github.com/iamkiko/fullstackopen-2019/tree/master/part7/bloglist-redux
 * __JSON Web Tokens__: token authentication
 * __Jest__: unit testing
 * __Cypress__: end-to-end testing
+* __Material UI__: basic styling
 * __Axios__: server requests and HTTP promises
 * __Bcrypt__: password hashing
 * __Body-parser__: parsing the request bodies of requests
