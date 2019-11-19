@@ -7,8 +7,7 @@ if (process.env.NODE_ENV !== "production") {
 }
 
 const server = http.createServer(app);
-
+const PORT = process.env.PORT || config.PORT;
 server.listen(PORT, () => {
-  const PORT = process.env.PORT || 3001;
   console.log(`Server running on port ${PORT}`);
 });
