@@ -24,6 +24,7 @@ https://github.com/iamkiko/fullstackopen-2019/tree/master/part7/bloglist-redux
 * __Redux__: state management
 * __Node.js__: server side operations
 * __Express__: routing and middleware
+* __React Router__: declarative routing between pages
 * __Mongoose__: object data modelling to MongoDB (our database)
 * __Webpack__: module bundling
 * __Redux Thunk__: handling async actions
